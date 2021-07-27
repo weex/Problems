@@ -2,7 +2,7 @@
 
 There are many problems in the world.
 
-Before we can solve those problems, we need to determine what they are, seek consensus on their accuracy, and prove the value of solving them. In this process, we may draw the attention of those who can develop solutions.
+Before we can solve them, we need to determine what they are, seek consensus on their accuracy, and prove the value of solving them. In this process, we may draw the attention of those who can develop solutions.
 
 # Language
 The key words “MUST”, “MUST NOT”, “REQUIRED”, “SHALL”, “SHALL NOT”, “SHOULD”, “SHOULD NOT”, “RECOMMENDED”, “MAY”, and “OPTIONAL” in this document are to be interpreted as described in [RFC 2119](https://datatracker.ietf.org/doc/html/rfc2119).
