@@ -1,4 +1,4 @@
-# Troubles
+# Problems
 
 There are many problems in the world.
 
